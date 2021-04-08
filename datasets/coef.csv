@@ -1,0 +1,108 @@
+variable,coef
+total_sf,0.134
+garage_cars total_bath,0.05
+total_bath,0.039
+paved_drive_Y,0.03
+bedroom_abvgr has_2fl,0.03
+foundation_PConc,0.028
+central_air_Y,0.027
+lot_frontage garage_cars,0.024
+has_fireplace,0.021
+neighborhood_Somerst,0.02
+lot_frontage has_2fl,0.017
+neighborhood_NridgHt,0.016
+neighborhood_Crawfor,0.016
+land_contour_HLS,0.016
+lot_area,0.016
+house_style_2.5Unf,0.014
+lot_config_CulDSac,0.014
+mas_vnr_area garage_cars,0.014
+ms_subclass porch_sf,0.013
+ms_subclass bedroom_abvgr,0.012
+house_style_SLvl,0.012
+garage_cars has_fireplace,0.012
+has_extrms,0.012
+lot_area yr_sold,0.01
+neighborhood_StoneBr,0.01
+total_sf porch_sf,0.01
+house_style_2Story,0.01
+garage_cars,0.009
+garage_cars yr_sold,0.008
+house_style_SFoyer,0.008
+condition_1_PosA,0.007
+foundation_CBlock,0.007
+land_contour_Lvl,0.007
+condition_1_Norm,0.007
+neighborhood_Timber,0.006
+neighborhood_Veenker,0.006
+neighborhood_Greens,0.006
+house_style_2.5Fin,0.005
+bldg_type_2fmCon,0.005
+neighborhood_NPkVill,0.005
+lot_config_Inside,0.005
+has_porch,0.005
+garage_cond_Gd,0.004
+neighborhood_Blueste,0.004
+paved_drive_P,0.004
+condition_1_PosN,0.003
+neighborhood_NoRidge,0.003
+land_slope_Mod,0.003
+house_style_1.5Unf,0.003
+porch_sf has_extrms,0.003
+roof_style_Gambrel,0.003
+garage_cars porch_sf,0.003
+roof_style_Shed,0.003
+land_slope_Sev,0.002
+condition_1_RRAn,0.002
+ms_subclass total_sf,0.002
+bldg_type_TwnhsE,0.001
+lot_shape_IR2,0.001
+has_2fl has_fireplace,0.001
+lot_frontage has_extrms,0.001
+yr_sold has_porch,0.001
+yr_sold total_bath,0.001
+kitchen porch_sf,0.001
+foundation_Stone,0.001
+neighborhood_Sawyer,-0.001
+lot_frontage^2,-0.001
+mas_vnr_area porch_sf,-0.001
+mas_vnr_area has_fireplace,-0.001
+neighborhood_Gilbert,-0.002
+neighborhood_NWAmes,-0.002
+total_bath has_2fl,-0.002
+kitchen garage_cars,-0.003
+lot_config_FR3,-0.003
+roof_style_Mansard,-0.003
+has_porch has_2fl,-0.003
+garage_cond_Po,-0.003
+has_2fl has_extrms,-0.005
+roof_style_Gable,-0.005
+condition_1_RRNn,-0.005
+yr_sold,-0.006
+porch_sf^2,-0.006
+neighborhood_SWISU,-0.006
+garage_cond_Fa,-0.007
+neighborhood_BrkSide,-0.007
+kitchen,-0.007
+ms_subclass has_2fl,-0.007
+bldg_type_Twnhs,-0.008
+condition_1_RRAe,-0.008
+neighborhood_SawyerW,-0.008
+neighborhood_BrDale,-0.009
+neighborhood_NAmes,-0.009
+lot_area^2,-0.012
+garage_cars has_2fl,-0.013
+kitchen^2,-0.021
+neighborhood_Edwards,-0.021
+total_bath has_fireplace,-0.023
+neighborhood_IDOTRR,-0.026
+neighborhood_MeadowV,-0.026
+bedroom_abvgr total_bath,-0.027
+exter_qual_Gd,-0.028
+exter_qual_Fa,-0.028
+kitchen_qual_Fa,-0.032
+neighborhood_OldTown,-0.032
+ms_subclass garage_cars,-0.042
+kitchen_qual_Gd,-0.045
+exter_qual_TA,-0.059
+kitchen_qual_TA,-0.076
